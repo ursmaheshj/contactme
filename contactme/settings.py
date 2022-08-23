@@ -94,10 +94,10 @@ WSGI_APPLICATION = 'contactme.wsgi.application'
 DATABASES = {
 'default': {
     'ENGINE': 'django.db.backends.postgresql',
-    'NAME': 'd6qr7jecdfs5gd',
-    'USER': 'swrrpffogaqbmk',
-    'PASSWORD': '1c6ce7c1172ff3811051b9f13d23085ca391554c4313ffa43c5ad86bcde53b85',
-    'HOST': 'ec2-54-152-28-9.compute-1.amazonaws.com',
+    'NAME': 'dfhm3uojbeibcs',
+    'USER': 'fjcrpndmkainkl',
+    'PASSWORD': 'ff9e1f8072be70d0691a46b82e669316a77ac0f9b34481c785facf7dd1284805',
+    'HOST': 'ec2-34-199-68-114.compute-1.amazonaws.com',
     'PORT': '5432',
     }
 }
